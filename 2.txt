@@ -1,1 +1,2 @@
 this is file 2.txt of branch master
+but now include logging system
